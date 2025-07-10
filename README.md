@@ -1,2 +1,0 @@
-# docsite
-My Documentation Website
