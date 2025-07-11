@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Remove Unwanted Commits
+# Remove Commits
 
 > 🎯 **Goal**: Remove unwanted commits from your GitHub Branch.
 
