@@ -3,8 +3,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Md Mobid - Docs',
-  tagline: 'Hi, Welcome to My Documentation Website :)',
+  title: "DocSite",
+  tagline: 'A Documentation Website by Md Mobid :)',
   favicon: 'img/favicon.ico',
 
   url: 'https://MdMobid.github.io',
