@@ -13,6 +13,7 @@ const config = {
   organizationName: 'MdMobid',
   projectName: 'docsite',
   deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
