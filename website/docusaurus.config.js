@@ -58,16 +58,16 @@ const config = {
     navbar: {
       title: 'Home',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'DocSite Logo',
+        src: 'img/docusaurus.png',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'githubSidebar',
-          position: 'left',
-          label: 'GitHub',
-        },
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'githubSidebar',
+        //   position: 'left',
+        //   label: 'GitHub',
+        // },
         {
           href: 'https://github.com/MdMobid',
           position: 'right',
