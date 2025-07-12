@@ -22,6 +22,13 @@ function HomepageHeader() {
             to="/quadroid/intro">
             Quadroid
           </Link>
+          <div style={{ width: "16px" }}></div> {/* Add this div to create a gap */}
+          <div style={{ width: "16px" }}></div> {/* Add this div to create a gap */}
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/github/upload_project">
+            GitHub
+          </Link>
         </div>
       </div>
     </header>
