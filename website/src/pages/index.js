@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/quadroid/intro">
+            to="/docs/quadroid/intro">
             Quadroid
           </Link>
           <div style={{ width: "16px" }}></div> {/* Add this div to create a gap */}
