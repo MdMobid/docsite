@@ -59,7 +59,7 @@ const config = {
       title: 'Home',
       logo: {
         alt: 'DocSite Logo',
-        src: 'img/docusaurus.png',
+        src: 'img/logo.png',
       },
       items: [
         // {
